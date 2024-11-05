@@ -10,7 +10,44 @@
 
 <body class="stackedit">
   <div class="stackedit__html"><h2 id="brosur-depan">Brosur Depan</h2>
-<h3 id="syarat-pendaftaran">Syarat Pendaftaran</h3>
+<h3 id="info-pendaftaran">INFO Pendaftaran</h3>
+<p><strong>Timeline</strong></p>
+
+<table>
+<thead>
+<tr>
+<th>Tanggal</th>
+<th>Informasi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2 Juli</td>
+<td>Tes Kesehatan</td>
+</tr>
+<tr>
+<td>2 Juli</td>
+<td>Tes CBT</td>
+</tr>
+<tr>
+<td>2 Juli</td>
+<td>Pengumuman</td>
+</tr>
+<tr>
+<td>2 Juli</td>
+<td>MPLS</td>
+</tr>
+</tbody>
+</table><p><strong>Syarat Pendaftaran</strong><br>
+Surat Keterangan Lulus (SKL)<br>
+Fotocopy Kartu Keluarga - 3 Lembar<br>
+Fotocopy KTP Orang Tua- 3 Lembar<br>
+<strong>Daftar Ulang</strong><br>
+Fotocopy Kartu NISN (Jika Ada)<br>
+Fotocopy Ijazah SLTP Terlegalisir - 4 Lembar<br>
+Fotocopy SKHUN Terlegalisir - 4 Lembar<br>
+Fotocopy Kartu Keluarga - 3 Lembar<br>
+Fotocopy KTP Orang Tua- 3 Lembar</p>
 <hr>
 <h3 id="informasi-sekolah">Informasi Sekolah</h3>
 <p><strong>Visi</strong><br>
@@ -81,6 +118,16 @@ Terbentuknya Lulusan Yang Berakhlaqul Karimah, Terampil, Mandiri Dan Berdaya Sai
 <li>Matematika</li>
 <li>Debat</li>
 <li>Paskibra</li>
+</ul>
+</li>
+<li>
+<p><strong>Media Sosial</strong></p>
+<ul>
+<li>web : <a href="http://smkdata.sch.id">smkdata.sch.id</a></li>
+<li>fb : <a href="http://smkdata.sch.id">smkdata.sch.id</a></li>
+<li>ig : <a href="http://smkdata.sch.id">smkdata.sch.id</a></li>
+<li>yt : Media SMK Darut Taqwa</li>
+<li>yt : Studio SMKDATA</li>
 </ul>
 </li>
 </ul>
